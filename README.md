@@ -1,6 +1,6 @@
 #JSONServer-Dockerfile
 
-- Create your Json File  db.json
+- Create your Json File  db.json    example   https://github.com/typicode/json-server/blob/master/db.json
 - Build your Docker Image     "docker build -t mockbackend ."
 - Run your container          "docker run -d -p 3000:3000 mockbackend"
 
